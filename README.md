@@ -1,5 +1,5 @@
 <img alt="coding" width="" src="https://cdn.pixabay.com/photo/2016/05/17/15/54/banner-1398363_960_720.jpg">
-<h1 align="center">Hi 👋, I'm Beytullah Çınar</h1>
+<h1 align="center">Hi 👋 I'm Beytullah Çınar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinar00&label=Profile%20views&color=0e75b6&style=flat" alt="cinar00" /> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
